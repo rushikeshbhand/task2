@@ -1,0 +1,39 @@
+h1 {
+    margin-left: 611px;
+    font-size: 47px;
+  }
+  .con {
+    background-color: grey;
+    margin-left: 600px;
+    margin-right: 750px;
+    width: 313px;
+    height: 459px;
+  }
+  .k {
+    margin: 6px;
+    padding: 26px;
+    font-size: 14px;
+    background-color: beige;
+  }
+  .a {
+    margin-left: 5px;
+    height: 360px;
+  }
+  body {
+    background-color: black;
+  }
+  #k1 {
+    margin-left: 8px;
+    padding: 26px;
+    height: 76px;
+  }
+  #text {
+    padding: 20px;
+    width: 270px;
+  }
+  #m3 {
+    display: flex;
+  }
+  .m1{
+    background-color: cyan;
+  }
